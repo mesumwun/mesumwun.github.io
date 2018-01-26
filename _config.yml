@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: From Baker to Coder
 header-img: img/home-bg.png
 email: upinhope@gmail.com
 copyright_name: mesumwun
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey From Baker to Software Superstar
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mesumwun
